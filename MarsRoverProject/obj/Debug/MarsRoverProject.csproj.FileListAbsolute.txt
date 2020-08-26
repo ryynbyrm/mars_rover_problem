@@ -1,0 +1,6 @@
+/Users/rbayram/Projects/MarsRoverProject/MarsRoverProject/bin/Debug/MarsRoverProject.exe
+/Users/rbayram/Projects/MarsRoverProject/MarsRoverProject/bin/Debug/MarsRoverProject.pdb
+/Users/rbayram/Projects/MarsRoverProject/MarsRoverProject/obj/Debug/MarsRoverProject.csprojAssemblyReference.cache
+/Users/rbayram/Projects/MarsRoverProject/MarsRoverProject/obj/Debug/MarsRoverProject.csproj.CoreCompileInputs.cache
+/Users/rbayram/Projects/MarsRoverProject/MarsRoverProject/obj/Debug/MarsRoverProject.exe
+/Users/rbayram/Projects/MarsRoverProject/MarsRoverProject/obj/Debug/MarsRoverProject.pdb
